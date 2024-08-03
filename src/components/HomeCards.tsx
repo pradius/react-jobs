@@ -1,7 +1,6 @@
 import Card from "./Card"
 
 const HomeCards = () => {
-
     return (
         <>
         <section className="py-4">
